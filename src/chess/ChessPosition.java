@@ -18,7 +18,7 @@ public class ChessPosition {
 		return column;
 	}
 	
-	public char getRow() {
+	public int getRow() {
 		return row;
 	}
 	
